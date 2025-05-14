@@ -20,7 +20,21 @@ The project applied Stanford's Design Thinking framework:
 
 This repository hosts presentation materials, planning documents, visual feedback, and takeaways from the workshop.
 
----
+
+## Table of Contents
+- [Overview](#overview)
+- [Event Summary](#event-summary)
+- [Design Thinking Process](#design-thinking-process)
+- [Survey Results](#survey-results)
+- [Final Presentation](#final-presentation)
+- [Reflections](#reflections)
+- [Credits](#credits)
+
+## 🔍 Dashboard Preview
+
+![Dashboard Preview](assets/dashboard-preview.png)
+
+---	
 
 🧠 Design Thinking Phases
 

@@ -32,7 +32,7 @@ This repository hosts presentation materials, planning documents, visual feedbac
 
 ## 🔍 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](assets/audience-faculty-graph.png)
 
 ---	
 
